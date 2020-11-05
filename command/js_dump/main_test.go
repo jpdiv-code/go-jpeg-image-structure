@@ -11,7 +11,7 @@ import (
 
 	"github.com/dsoprea/go-logging"
 
-	"github.com/dsoprea/go-jpeg-image-structure"
+	"github.com/jpdiv-code/go-jpeg-image-structure"
 )
 
 type JsonResultJpegSegmentListItem struct {

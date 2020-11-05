@@ -8,7 +8,7 @@ import (
 	"io/ioutil"
 
 	"github.com/dsoprea/go-exif/v2"
-	"github.com/dsoprea/go-jpeg-image-structure"
+	"github.com/jpdiv-code/go-jpeg-image-structure"
 	"github.com/dsoprea/go-logging"
 	"github.com/jessevdk/go-flags"
 )

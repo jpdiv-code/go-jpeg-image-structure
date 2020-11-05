@@ -11,7 +11,7 @@ import (
 	"github.com/dsoprea/go-logging"
 	"github.com/jessevdk/go-flags"
 
-	"github.com/dsoprea/go-jpeg-image-structure"
+	"github.com/jpdiv-code/go-jpeg-image-structure"
 )
 
 // TODO(dustin): Add comments to all of these structs.

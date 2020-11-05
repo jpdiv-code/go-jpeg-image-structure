@@ -11,7 +11,7 @@ import (
 
 	"github.com/dsoprea/go-logging"
 
-	"github.com/dsoprea/go-jpeg-image-structure/v2"
+	"github.com/jpdiv-code/go-jpeg-image-structure/v2"
 )
 
 var (
