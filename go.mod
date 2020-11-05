@@ -1,4 +1,4 @@
-module github.com/dsoprea/go-jpeg-image-structure
+module github.com/jpdiv-code/go-jpeg-image-structure
 
 go 1.13
 
